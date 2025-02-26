@@ -21,9 +21,9 @@ This is a simple Password Generator web application that allows users to create 
 1) Open the application in a browser.
 2) Set the desired password length (between 6 and 20 characters).
 3) Select optional character types:
- - Include Uppercase
- - Include Numbers
- - Include Symbols
+   - Include Uppercase
+   - Include Numbers
+   - Include Symbols
 4) Click the "Generate Password" button to create a secure password.
 5) View the strength indicator to assess password security.
 6) Click the "Copy" button to copy the generated password.
