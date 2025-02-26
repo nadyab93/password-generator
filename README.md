@@ -2,7 +2,7 @@
 
 This is a simple Password Generator web application that allows users to create strong, random passwords based on selected criteria. Users can customize the length of the password and choose whether to include uppercase letters, numbers, and special symbols. Additionally, the application provides a password strength indicator.
 
-![Screenshot 2025-02-26 140718](https://github.com/user-attachments/assets/ec232831-45dd-4191-8272-a4b9761844b8)
+![Screenshot 2025-02-26 142614](https://github.com/user-attachments/assets/3bbd8688-dc0d-4b66-975b-bdd6956aa228)
 
 # Features
 
